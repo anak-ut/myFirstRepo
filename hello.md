@@ -50,3 +50,7 @@ File sekarang berada di staging area dan menunggu untuk kita commit.
 - selanjutnya kita commit dengan cara : `git commit -m "Hello world dengan pedoman git pada projek"`
 
 > "Hello world ..." adalah pesan pada commit yang harus diisi.
+
+Penggunaan `git status` , `git add .` , dan `git commit -m "pesan"` akan sering digunakan.
+
+Periksa *command git* : `git` untuk mengetahui perintah apa saja yang bisa digunakan.
