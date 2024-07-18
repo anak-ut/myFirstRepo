@@ -14,11 +14,11 @@ jika sudah terinstal, akan tercetak version git atau muncul banyak command git
 
 `git config --global user.name "anak-ut"`
 
-`git config --global user.email 031317495@ecampus.ut.ac.id`
+`git config --global user.email xyz@ecampus.ut.ac.id`
 
 *anak-ut* adalah username yang saya pakai
 
-<031317495@ecampus.ut.ac.id> adalah email yang saya pakai.
+<xyz@ecampus.ut.ac.id> adalah email yang saya pakai.
 
 Tanpa tanda kutip ya
 
