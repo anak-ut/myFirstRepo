@@ -53,4 +53,6 @@ File sekarang berada di staging area dan menunggu untuk kita commit.
 
 Penggunaan `git status` , `git add .` , dan `git commit -m "pesan"` akan sering digunakan.
 
-Periksa *command git* : `git` untuk mengetahui perintah apa saja yang bisa digunakan.
+Periksa *command git* : `git` untuk mengetahui perintah apa saja yang bisa digunakan
+
+atau cek link berikut : [basic git command](https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands)
