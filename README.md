@@ -1,4 +1,4 @@
-# Pertama kali memulai Projek
+# Menggunakan GIT
 
 ## Lakukan hal berikut &colon;
 
